@@ -1,4 +1,4 @@
-islandora_solution_pack_vaporware
+Islandora vaporware solution pack
 =================================
 
 Coming soon
